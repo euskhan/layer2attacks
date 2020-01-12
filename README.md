@@ -1,5 +1,6 @@
 # Layer 2 Attacks
 [TR] 
+
 Temel 2.Katman saldırıları.
 
 Bu Proje Düzce Üniversitesi/Bilgisayar Mühendisliği Bitirme Projesi Kapsamında sadece EĞİTİM ve AKADEMIK  amaçlar için yapılmıştır.
@@ -7,7 +8,7 @@ Bu Proje Düzce Üniversitesi/Bilgisayar Mühendisliği Bitirme Projesi Kapsamı
 Oğuz Han Ayaz Tarafından kodlanmıştır.
 
 1. İndirme :
-Kod buradaki repo üzerinden erişime açıktır. [repo] (https://github.com/euskhan/layer2attacks)
+- Kod buradaki repo üzerinden erişime açıktır. [repo] (https://github.com/euskhan/layer2attacks)
 
 2. Önşartlar :
 - libpcap (Bu adresten erişilebilir => http://www.tcpdump.org/)
@@ -51,7 +52,7 @@ This Project has been made only for ACADEMIC and EDUCATIONAL purposes within the
 Codded by Oğuz Han Ayaz.
 
 1. Download :
--Code available on this [repo] (https://github.com/euskhan/layer2attacks)
+- Code available on this [repo] (https://github.com/euskhan/layer2attacks)
 
 2. Prerequisites :
 - libpcap (it can be accessable from here => http://www.tcpdump.org)
