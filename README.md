@@ -1,7 +1,7 @@
 # Layer 2 Attacks
 [TR] Temel 2.Katman saldırıları.
 
-Bu Proje Düzce Üniversitesi/Bilgisayar Mühendisliği Bitirme Projesi Kapsamında sadece AKADEMIK ve EĞİTİM amaçlar için yapılmıştır.
+Bu Proje Düzce Üniversitesi/Bilgisayar Mühendisliği Bitirme Projesi Kapsamında sadece EĞİTİM ve AKADEMIK amaçlar için yapılmıştır.
 
 Oğuz Han Ayaz Tarafından kodlanmıştır.
 
