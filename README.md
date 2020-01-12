@@ -1,5 +1,6 @@
 # Layer 2 Attacks
-[TR] Temel 2.Katman saldırıları
+[TR] Temel 2.Katman saldırıları.
+
 Bu Proje Düzce Üniversitesi/Bilgisayar Mühendisliği Bitirme Projesi Kapsamında sadece AKADEMIK ve EĞİTİM amaçlar için yapılmıştır.
 
 Oğuz Han Ayaz Tarafından kodlanmıştır.
@@ -35,7 +36,8 @@ Kod buradaki repo üzerinden erişime açıktır. [repo] (https://github.com/eus
 Siz 'CTRL+C' ile durdurana dek, bağlantı katmanı yayınında belirtilen IP adresi ile karşılıksız ARP gönderecektir.
 
 [ENG] 
-Basic Layer 2 Attacks 
+Basic Layer 2 Attacks.
+
 This Project has been made only for ACADEMIC and EDUCATIONAL purposes within the scope of Duzce University / Computer Engineering Graduation Project
 
 Codded by Oğuz Han Ayaz
