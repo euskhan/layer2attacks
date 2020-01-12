@@ -25,13 +25,17 @@ Oğuz Han Ayaz Tarafından kodlanmıştır.
 
 5. Kullanım :
 - MAC Flood Saldırısı: './MACFlooder <MAC Adres Sayısı>'
--Belirttiğiniz sayıda MAC Adresini ağa rastgele IP Adresi ve 2nci Katman Adresi ile birlikte gönderecektir.
+
+Belirttiğiniz sayıda MAC Adresini ağa rastgele IP Adresi ve 2nci Katman Adresi ile birlikte gönderecektir.
 - ARP Flood Saldırısı:  './ARPFlooder <Gönderilecek ARP Paket Sayısı>'
--Belirttiğiniz sayıda ARP Paketini gönderecektir.
+
+Belirttiğiniz sayıda ARP Paketini gönderecektir.
 - DNS Hijack Saldırısı : './DNSHijacker [<Yönlendirilecek IP Adresi> [<Hedef/Kurban IP Adresi>]]>'
+
 İki değişkende isteğe bağlıdır , ancak Hedef/Kurban'a ait bir IP Adresi kullanabilmek için ilk değişkeni bir diğer deyişle kurbanı yönlendirmek istediğiniz ip adresini girmeniz gerekmektedir
 İlk değişkenin varsayılan değeri 79.123.223.60 (Düzce Üniversitesi'nin websitesidir).
 - ARP Spoofing/Poisoning Saldırısı: './ARPspoofing <IP Adresi>'
+  
 Siz 'CTRL+C' ile durdurana dek, bağlantı katmanı yayınında belirtilen IP adresi ile karşılıksız ARP gönderecektir.
 
 [ENG] 
