@@ -62,12 +62,16 @@ Code accesable on this [repo] (https://github.com/euskhan/layer2attacks)
 
 5. Usage :
 - MAC flooding attack : './MACFlooder <number of messages>'
--It will send random MAC Addresses (as many times as you specify) on the network with random IP and layer 2 addresses.
+  
+It will send random MAC Addresses (as many times as you specify) on the network with random IP and layer 2 addresses.
 - ARP flooding attack :  './ARPFlooder <number of messages>'
--It will send random ARP messages (as many times as you specify).
+  
+It will send random ARP messages (as many times as you specify).
 - DNS hijacking attack : './DNSHijacker [<IP addr answered> [<IP addr to target/victim>]]>'
+  
 Both arguments are optional, but if you define specific target/victim (it means 2nd option), you need to define first argument.
 The first argument is the IP address to where you redirect your victims. By default it is 79.123.223.60 (Duzce Univercity's website). The second one is the IP address of your victim, if you want it to be a unique person on the network.
 - ARP spoofing attack : './ARPspoofing <IP addr>'
-It will send gratuitous ARP with the specified IP address on link layer broadcast, until you stop it with `^C`.
+  
+It will send gratuitous ARP with the specified IP address on link layer broadcast, until you stop it with 'CRTL+C'.
 
