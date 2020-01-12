@@ -16,7 +16,7 @@ Oğuz Han Ayaz Tarafından kodlanmıştır.
 
 3. Öneriler :
 
-- Kali - Linux kullanmanızı öneririm çünkü gerekli içeriklerden bazıları (GCC Derleyicisi,Wireshark vs.)
+- Kali - Linux kullanmanızı öneririm çünkü gerekli içeriklerden bazıları (GCC Derleyicisi,Wireshark vs.) halihazırda entegre olarak gelmekte.
 - Sanal makine üzerinden bir ağ oluşturup sadece oluşturduğunuz bu ağ üzerinde çalışmak istenirse ek olarak WMware yada VirtualBox gibi programlar kullanılabilir (Kişisel tavsiyem VMware'dir).
 
 4. Derleme Komutları :
