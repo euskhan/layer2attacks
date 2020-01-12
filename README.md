@@ -1,30 +1,31 @@
 # Layer 2 Attacks
 [TR] 
 Temel 2.Katman saldırıları.
-Bu Proje Düzce Üniversitesi/Bilgisayar Mühendisliği Bitirme Projesi Kapsamında sadece AKADEMIK ve EĞİTİM amaçlar için yapılmıştır.
+
+Bu Proje Düzce Üniversitesi/Bilgisayar Mühendisliği Bitirme Projesi Kapsamında sadece EĞİTİM ve AKADEMIK  amaçlar için yapılmıştır.
 
 Oğuz Han Ayaz Tarafından kodlanmıştır.
 
-1. İndirme
+1. İndirme :
 Kod buradaki repo üzerinden erişime açıktır. [repo] (https://github.com/euskhan/layer2attacks)
 
 2. Önşartlar :
 - libpcap (Bu adresten erişilebilir => http://www.tcpdump.org/)
 - libnet (Bu adresten erişilebilir => http://libnet.sourceforge.net/)
 
-3. Öneriler
+3. Öneriler :
 
 - Kali - Linux kullanmanızı öneririm çünkü gerekli içeriklerden bazıları (GCC Derleyicisi,Wireshark vs.)
 - Sanal makine üzerinden bir ağ oluşturup sadece oluşturduğunuz bu ağ üzerinde çalışmak istenirse ek olarak WMware yada VirtualBox gibi programlar kullanılabilir (Kişisel tavsiyem VMware'dir).
 
-4. Derleme Komutları:
+4. Derleme Komutları :
 - MAC flooding  : "$ make flood"
 - ARP flooding  : "$ make arpflooder"
 - DNS hijacking : "$ make dns'
 - ARP Poisoning : "$ make arpspoofer"
 - Hepsi		: "$ make all"
 
-5. Kullanım
+5. Kullanım :
 - MAC flooding Saldırısı : "$ ./MACFlooder <sahte mac adres sayisi>"
 
 Belirlediğiz sayıda mac adresini rasgele IP ve katman 2 adresleriyle gönderir.
@@ -43,20 +44,20 @@ Belirlemiş olduğunuz IP Adresine sürekli olarak "gratuitous ARP" paketleri g�
 
 [ENG] 
 
-Basic Layer 2 Attacks 
+Basic Layer 2 Attacks.
+
 This Project has been made only for ACADEMIC and EDUCATIONAL purposes within the scope of Duzce University / Computer Engineering Graduation Project.
 
 Codded by Oğuz Han Ayaz.
 
 1. Download :
-Code available on this [repo] (https://github.com/euskhan/layer2attacks)
+-Code available on this [repo] (https://github.com/euskhan/layer2attacks)
 
 2. Prerequisites :
 - libpcap (it can be accessable from here => http://www.tcpdump.org)
 - libnet (it can be accessable from here => http://libnet.sourceforge.net)
 
 3. Suggestions :
-
 - I suggest to use Kali - Linux because neccesary components (like GCC,WireShakr etc.) pre-installed on Kali
 - If you want to create a network through a virtual machine and only work on the network you have created,you need to install additional programs like WMware or VirtualBox (My personal advice is VMware).
 
