@@ -1,4 +1,5 @@
 # Layer 2 Attacks
-Basic Layer 2 Attacks /Temel 2.Katman saldırıları
+[ENG] Basic Layer 2 Attacks 
+[TR] Temel 2.Katman saldırıları
 
 
