@@ -45,7 +45,7 @@ This Project has been made only for ACADEMIC and EDUCATIONAL purposes within the
 
 Codded by Oğuz Han Ayaz
 
-1. Download
+1. Download :
 Code accesable on this [repo] (https://github.com/euskhan/layer2attacks)
 
 2. Prerequisites :
@@ -53,7 +53,6 @@ Code accesable on this [repo] (https://github.com/euskhan/layer2attacks)
 - libnet (it can be accessable from here => http://libnet.sourceforge.net)
 
 3. Suggestions :
-
 - I suggest to use Kali - Linux because neccesary components (like GCC,WireShakr etc.) pre-installed on Kali
 - If you want to create a network through a virtual machine and only work on the network you have created,you need to install additional programs like WMware or VirtualBox (My personal advice is VMware).
 
