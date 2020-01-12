@@ -33,7 +33,7 @@ Belirlediğiz sayıda mac adresini rasgele IP ve katman 2 adresleriyle gönderir
 - ARP flooding Saldırısı :  "$ ./ARPFlooder <Arp tablosuna gonderilecek bos istek sayisi>"
 
 Belirlediğiniz sayıda gratuitous ARP paketlerini gönderecek.
-- DNS hijacking Saldırısı (MITM) : '$ ./DNSHijacker [<IP Adres> [<Hedef IP Adres>]]>'
+- DNS Hijack Saldırısı : './DNSHijacker [<Yönlendirilecek IP Adresi> [<Hedef/Kurban IP Adresi>]]>'
 
 2 değişkende isteğe bağlı, ancak Hedef IP Adresi yani 2.seçeneği kullanmak istiyorsanız 1. seçeniğide özelleştirmeniz gerekmekte. 
 İlk değişken, ziyaret etmeye çalıştıkları web sitesi ne olursa olsun kurbanlarınızı yönlendirdiğiniz IP adresidir.
